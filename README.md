@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrahimbineid
 - 👀 I’m interested in Data science & Cyber security  
-- 🌱 I’m currently learning Odoo In Technical , Functional Felld
+- 🌱 I’m currently learning Odoo In Technical , Functional Field
 - 📫 How to reach me Bineid@gmail.com
 
 <!---
